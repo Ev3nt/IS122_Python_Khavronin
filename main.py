@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.python.keras import layers, models
 
-image_size = [image_width, image_height] = (224, 244)
+image_size = [image_width, image_height] = (224, 224)
 
 def parse_xml(xml_path):
     tree = ET.parse(xml_path)

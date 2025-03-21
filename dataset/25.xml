@@ -1,7 +1,7 @@
 <annotation>
 	<folder>dataset</folder>
-	<filename>29.png</filename>
-	<path>D:\labelImg\coursework\dataset\29.png</path>
+	<filename>25.png</filename>
+	<path>D:\labelImg\coursework\dataset\25.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>939</xmin>
-			<ymin>508</ymin>
-			<xmax>980</xmax>
-			<ymax>564</ymax>
+			<xmin>900</xmin>
+			<ymin>478</ymin>
+			<xmax>949</xmax>
+			<ymax>545</ymax>
 		</bndbox>
 	</object>
 </annotation>
