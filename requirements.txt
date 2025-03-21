@@ -1,0 +1,6 @@
+tensorflow==2.19.0
+ml-dtypes>=0.5.1
+tensorboard~=2.19.0
+numpy<=2.2.0
+opencv-python>=4.11.0.86
+lxml>=5.3.0
